@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "FST_KINGDOM.aternos.me",
+    "port": 36369,
     "version": "1.20.1",
     "try-creative": false
   },
